@@ -3,7 +3,8 @@
 This repository contains code and configuration files for Google Cloud Data Analytics Project.This project demonstrates the integration of several GCP services to create an efficient and automated data pipeline for sales data. We'll show you how to:
 
 
-![alt text](image.png)
+<img width="1027" height="555" alt="Screenshot 2025-12-26 192726" src="https://github.com/user-attachments/assets/40793934-695d-41a6-a518-d145067ca411" />
+
 
 
 
@@ -19,8 +20,9 @@ This repository contains code and configuration files for Google Cloud Data Anal
 
 
 
-![alt text](image-1.png)
+<img width="1026" height="551" alt="Screenshot 2025-12-26 192823" src="https://github.com/user-attachments/assets/729dd601-0947-4142-a516-1dc13f0d1f53" />
+
 
 ## Architecture
+<img width="1072" height="437" alt="Screenshot 2025-12-26 192916" src="https://github.com/user-attachments/assets/ed38544d-d409-472d-9960-3890879b0051" />
 
-![alt text](image-2.png)
